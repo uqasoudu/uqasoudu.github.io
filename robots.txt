@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqasoudu.github.io/BTs/sitemap_index.txt
+Sitemap: https://uqasoudu.github.io/RvT/sitemap_index.txt
+Sitemap: https://uqasoudu.github.io/XbA/sitemap_index.txt
+Sitemap: https://uqasoudu.github.io/tUi/sitemap_index.txt
